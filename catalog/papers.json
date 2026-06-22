@@ -1,0 +1,693 @@
+{
+  "version": "1.0",
+  "source": "Zotero Rock Physics + Shear-Wave Splitting collections",
+  "papers": [
+    {
+      "title": "TIP-INN: A Thermodynamics-informed Machine Learning Framework for the Mechanical Behavior of Rocks",
+      "abstract": "Modeling the mechanical deformation of geological materials across the vast range\nof relevant thermodynamic conditions and dynamic processes remains a fundamental challenge\nin Earth sciences. Conventional rheological models often rely on isolated ...",
+      "doi": "10.22541/essoar.15001844/v1",
+      "year": 2026,
+      "journal": null,
+      "first_author": "Li",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/573P49IJ/Li et al. - 2026 - TIP-INN A Thermodynamics-informed Machine Learning Framework for the Mechanical Behavior of Rocks.pdf"
+    },
+    {
+      "title": "Oceanic upper crustal accretion by melt sill and lava flow interaction at Axial volcano",
+      "abstract": "Magmatically-accreted upper crust along mid-ocean ridges is traditionally considered to consist of lava flows overlying a sheeted-dyke complex. However, how the upper crust is formed at hotspot-influenced ridge segments remains unknown. Using three-dimensional seismic reflection data, here we report images of lava flow layering beneath Axial volcano on the Juan de Fuca Ridge. These lava flow layers dip inward towards the caldera and rift zones, resulting from subsidence caused by magma withdrawal beneath the summit and rift zone extension. Furthermore, our images reveal that the classic, laterally continuous sheeted-dyke complex is absent. Instead, lava flow layers are rotated and brought into direct contact with the magma domain, leading to partial assimilation of these units. Three-dimensional images also show that melt is injected outward along lava flow layers, suggesting that the upper crust at Axial volcano is formed by complex interactions between injected melt sills and lava flow layers.",
+      "doi": "10.1038/s41467-026-70033-x",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "first_author": "Wu",
+      "tags": [
+        "Geophysics",
+        "Volcanology",
+        "Tectonics"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/C2S5ZRIV/Wu et al. - 2026 - Oceanic upper crustal accretion by melt sill and lava flow interaction at Axial volcano.pdf"
+    },
+    {
+      "title": "Comprehensive global data set of uniformly processed shear-wave splitting measurements",
+      "abstract": "Seismic anisotropy can inform us about convective flow in the mantle. Shear waves traveling through azimuthally anisotropic regions split into fast and slow pulses, and measuring the resulting shear-wave splitting provides some of the most direct insights into Earth’s interior dynamics. Shear-wave splitting is a constraint for path-averaged azimuthal anisotropy and is often studied regionally. Global compilations of these measurements also exist. Such compilations include measurements obtained using different data processing methodologies (e.g., filtering), which do not necessarily yield identical results, and reproducing a number of studies can be challenging given that not all provide the required information, for example, about the source location. Here, we automatically determine shear-wave splitting parameters from core-refracted SKS, SKKS and PKS waves from a global data set. This data set includes all earthquakes with magnitudes $\\ge 5.9$ from 2000 to the present, collected from 24 data centers, totaling over 4700 events and 16 million three-component seismograms. We obtain approximately 90 000 robust measurements for ‘fast azimuth’, $\\phi$, and delay time, $\\delta {t}$, and 210 000 robust null measurements. Results generally agree with previous work but our measurements allow us to identify hundreds of ‘null stations’ below which the mantle appears effectively isotropic with respect to azimuthal anisotropy, which are important for some splitting techniques. We make all measurements publicly available as a data product, along with detailed metadata. This serves two purposes: ensuring full reproducibility of results and providing all necessary information for future systematic use of our measurements, in tomography applications or comparisons with geodynamic flow predictions.",
+      "doi": "10.1093/gji/ggaf076",
+      "year": 2025,
+      "journal": "Geophysical Journal International",
+      "first_author": "Wolf",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/BLVY4LNA/Wolf et al. - 2025 - Comprehensive global data set of uniformly processed shear-wave splitting measurements.pdf"
+    },
+    {
+      "title": "Tectonic Stress as the Driving Mechanism for Dike Opening in an Oblique Rift Setting: A Deformation Model of the 2021 Fagradalsfjall Dike, Iceland",
+      "abstract": "Repeated dike-intrusions often occur in zones where extensional stress has accumulated. Still, geodetic modeling of observed dike-induced ground deformation often ignores the contribution of tectonic stress. On the obliquely spreading Reykjanes Peninsula, Iceland, tectonic strain build-up had been geodetically documented for three decades when a magmatic dike formed at Fagradalsfjall in 2021. We explore the contribution of tectonic stress on dike emplacement in a viscoelastic three-dimensional Finite-Element deformation model. Tectonic stress accumulation is initially simulated through plate motion, and later partially released by opening of a segmented rectangular dike. We find that surface deformation can be largely reproduced by releasing {\\sim \\60% of the accumulated tectonic stress. Partial stress release and low magma overpressure are consistent with successive dike intrusions and low-intensity eruptions in the area. Our model provides an approach to consistently model stress-release constrained by surface deformation.",
+      "doi": "10.1029/2024GL113970",
+      "year": 2025,
+      "journal": "Geophysical Research Letters",
+      "first_author": "Greiner",
+      "tags": [
+        "stress",
+        "ground deformation",
+        "dikes",
+        "finite element method",
+        "Reykjanes Peninsula",
+        "Volcano tectonic interaction"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/IZTSUKP8/Greiner et al. - 2025 - Tectonic Stress as the Driving Mechanism for Dike Opening in an Oblique Rift Setting A Deformation.pdf"
+    },
+    {
+      "title": "Asymmetric magma plumbing system beneath Axial Seamount based on full waveform inversion of seismic data",
+      "abstract": "The architecture of magma plumbing systems plays a fundamental role in volcano eruption and evolution. However, the precise configuration of crustal magma reservoirs and conduits responsible for supplying eruptions are difficult to explore across most active volcanic systems. Consequently, our understanding of their correlation with eruption dynamics is limited. Axial Seamount is an active submarine volcano located along the Juan de Fuca Ridge, with known eruptions in 1998, 2011, and 2015. Here we present high-resolution images of P-wave velocity, attenuation, and estimates of temperature and partial melt beneath the summit of Axial Seamount, derived from multi-parameter full waveform inversion of a 2D multi-channel seismic line. Multiple magma reservoirs, including a newly discovered western magma reservoir, are identified in the upper crust, with the maximum melt fraction of ~15–32% in the upper main magma reservoir (MMR) and lower fractions of 10% to 26% in other satellite reservoirs. In addition, a feeding conduit below the MMR with a melt fraction of ~4–11% and a low-velocity throat beneath the eastern caldera wall connecting the MMR roof with eruptive fissures are imaged. These findings delineate an asymmetric shallow plumbing system beneath Axial Seamount, providing insights into the magma pathways that fed recent eruptions.",
+      "doi": "10.1038/s41467-024-49188-y",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "first_author": "Yang",
+      "tags": [
+        "Seismology",
+        "Geophysics",
+        "Volcanology"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/MSPGLCVL/Yang et al. - 2024 - Asymmetric magma plumbing system beneath Axial Seamount based on full waveform inversion of seismic.pdf"
+    },
+    {
+      "title": "Strong seismic anisotropy due to upwelling flow at the root of the Yellowstone mantle plume",
+      "abstract": "The Yellowstone region (western United States) is a commonly cited example of intraplate volcanism whose origin has been a topic of debate for several decades. Recent work has suggested that a deep mantle plume, rooted beneath southern California, is the source of Yellowstone volcanism. Seismic anisotropy, which typically results from deformation, can be used to identify and characterize mantle ﬂow. Here, we show that the proposed plume root location at the base of the mantle is strongly seismically anisotropic. This ﬁnding is complemented by geodynamic modeling results showing upwelling ﬂow and high strains in the lowermost mantle beneath the Yellowstone region. Our results support the idea that the Yellowstone volcanism is caused by a plume rooted in the deepest mantle beneath southern California, connecting dynamics in the deepest mantle with phenomena at Earth’s surface.",
+      "doi": "10.1130/G51919.1",
+      "year": 2024,
+      "journal": "Geology",
+      "first_author": "Wolf",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/BHEZLNTY/Wolf et al. - 2024 - Strong seismic anisotropy due to upwelling flow at the root of the Yellowstone mantle plume.pdf"
+    },
+    {
+      "title": "Time Varying Crustal Anisotropy at Whakaari/White Island Volcano",
+      "abstract": "Whakaari/White Island has been the most active New Zealand volcano in the 21st century, producing small phreatic and phreatomagmatic eruptions, which are hard to predict. The most recent eruption occurred in 2019, tragically claiming the lives of 22 individuals and causing numerous injuries. We employed shear-wave splitting analyses to investigate variations in anisotropy between 2018 and 2020, during quiescence, unrest, and the eruption. We examined spatial and temporal variations in 3,499 shear-wave splitting and 2,656 Vp/Vs ratio measurements. Comparing shear-wave splitting parameters from similar earthquake paths across different times indicates that the observed temporal changes are unlikely to result from variations in earthquake paths through media with spatial variability. Instead, these changes may stem from variations in anisotropy over time, likely caused by changes in crack alignment due to stress or varying fluid content.",
+      "doi": "10.1029/2023GL106473",
+      "year": 2024,
+      "journal": "Geophysical Research Letters",
+      "first_author": "Mengesha",
+      "tags": [
+        "anisotropy",
+        "New Zealand",
+        "shear-wave splitting",
+        "Whakaari"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/YIWAYFH5/Mengesha et al. - 2024 - Time Varying Crustal Anisotropy at WhakaariWhite Island Volcano.pdf"
+    },
+    {
+      "title": "Dynamic subsurface changes on El Hierro and La Palma during volcanic unrest revealed by temporal variations in seismic anisotropy patterns",
+      "abstract": "Active hotspot volcanism is the surface expression of ongoing dynamic subsurface changes, such as the generation, transport, and stalling of magmas within the upper mantle and crust. Magmatic influx and migration affects local stress patterns in the crust and lithospheric mantle, which influences seismic anisotropy. A better understanding of those patterns helps improve robustness of models forecasting the likelihood of an eruption and prolonged seismicity, with detailed studies being required to observe the significant variations that can occur on small spatial and temporal scales. Here, we investigate seismic anisotropy before, during and after volcanic eruptions. We use local seismicity around El Hierro and La Palma, the two westernmost islands in the Canaries and sites of the most recent volcanic eruptions in the archipelago. We obtained 908 results around the 2021 eruption in La Palma with 2 three-component broadband seismic stations, and 215 in El Hierro during and after the 2011/2012 eruption with 5 three-component broadband stations. On La Palma, the majority of seismicity and splitting results are recorded during the eruption and simultaneous deflation of the island. Seismicity locations do not change significantly and fast shear wave polarisation direction is mostly constant, but some variation can be attributed to changes in the magmatic plumbing system. On El Hierro, the general radial pattern reflects stresses induced by the overall uplift of the island during multiple magma intrusion events. Temporal subsets reveal significant variations in location and depth of the events, as well as significant variations in fast polarisation direction caused by ongoing dynamic changes of under-and overpressurisation. An increase of results starting in 2018 hints towards renewed subsurface activity within deeper parts of the plumbing system, affecting the rate of overall seismicity but not any vertical movement of the island.",
+      "doi": "10.3389/feart.2023.1299338",
+      "year": 2024,
+      "journal": "Frontiers in Earth Science",
+      "first_author": "Schlaphorst",
+      "tags": [
+        "seismic anisotropy",
+        "Canary Islands",
+        "Hotspot volcanism",
+        "Magmatic plumbing system",
+        "temporal variation"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/8M3QQKVK/Schlaphorst et al. - 2024 - Dynamic subsurface changes on El Hierro and La Palma during volcanic unrest revealed by temporal var.pdf"
+    },
+    {
+      "title": "Temporal Variations in Frequency-Dependent Shear-Wave Anisotropy Above a Plate Interface Following Episodic Slow-Slip Events",
+      "abstract": "Recent observations beneath Kanto, Japan have shown that seismic activity and seismic attenuation within the overlying continental plate change with time due to drainage caused by slow-slip events (SSEs) along the upper boundary of the Philippine Sea plate. However, associated changes in rock properties have not been investigated. In this study, we estimate frequency-dependent shear-wave anisotropy to provide a detailed insight into the structural change associated with drainage. We perform shear-wave splitting analysis in frequency ranges of 1–4, 2–6, and 4–8 Hz for 306 earthquakes that occur during September 2009–August 2021 and recorded at the Metropolitan Seismic Observation network. Obtained time differences between fast and slow S waves (delay time) range from almost zero to 0.16–0.18 s, exhibiting spatio-temporal variation and frequency dependence. The fast S-wave polarization directions are generally consistent with the direction of the maximum horizontal compressional axis in the study region, which suggests that the observed anisotropy is probably caused by the NE–SW-oriented fractures developed under the regional stress field. The temporal variation in delay times is correlated with SSEs activity with a lag time of 0.0–0.1 year. Furthermore, comparisons between observed frequency-dependent delay times and numerical calculation of fracture-induced anisotropy suggest that the average fracture radius is almost constant (0.30–0.35 m) over time but fracture density temporally varies from 0.025 to 0.035. We infer that the fracture density is probably enhanced by opening of the NE–SW-oriented fractures during the upward migration of fluids that are expelled from the plate interface.",
+      "doi": "10.1029/2023JB028526",
+      "year": 2024,
+      "journal": "Journal of Geophysical Research: Solid Earth",
+      "first_author": "Ito",
+      "tags": [
+        "anisotropy",
+        "drainage",
+        "fluid",
+        "fracture",
+        "slow-slip events"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/95R8MEIB/Ito and Nakajima - 2024 - Temporal Variations in Frequency-Dependent Shear-Wave Anisotropy Above a Plate Interface Following E.pdf"
+    },
+    {
+      "title": "Shear wave splitting and seismic velocity structure in the focal area of the earthquake swarm and their relation with earthquake swarm activity in the Noto Peninsula, central Japan",
+      "abstract": "Seismic activity in the Noto region of Ishikawa Prefecture, central Japan, has increased since August 2020 and has continued as of August 2023. Stress changes due to subsurface sources and increases in fluid pressure have been discussed as the causes of the seismic activity increase. In this study, S-wave polarization anisotropy was investigated by S-wave splitting analysis using temporary and permanent stations located in the epicenter area. We also investigated the seismic wave velocity structure in the source region by analyzing seismic wave velocity tomography. The fast orientations of anisotropy (fast shear wave oscillation direction, FSOD) were generally NW–SE in the southern part of the focal area and east–west in the northern part. The NW–SE anisotropy generally coincides with the direction of the maximum horizontal compression axis, both near the surface and at earthquake depths. Therefore, stress-induced anisotropy can be the cause of the observed NW–SE anisotropy. On the other hand, faults with strike directions generally east–west have been identified, and structural anisotropy may be the cause of the observed east–west anisotropy. We examined the time variation of anisotropy at N.SUZH, one of the permanent stations. No significant time variation was observed in the FSOD. Larger anisotropy was observed, particularly for the activity in the western part of the focal area, from about June–September 2021 compared to the previous period. A high Vp/Vs region was identified beneath the focal area, at a depth of 18 km. This high Vp/Vs region has slightly larger P-wave velocities than the surrounding area. Since Tertiary igneous rocks are distributed in the target area, the high Vp/Vs region may represent a Tertiary magma reservoir, suggesting that fluids released through the old magma reservoir are involved in this seismic swarm. This seismic activity started in the southern part of the area, where relatively immature fault structure exists, where stress-induced anisotropy is distributed, and where high Vp/Vs regions suggestive of fluid at depth are identified. Subsequently, seismicity became more active in the northern part, where structural anisotropy with well-developed fault structures is distributed.",
+      "doi": "10.1186/s40623-024-01974-0",
+      "year": 2024,
+      "journal": "Earth, Planets and Space",
+      "first_author": "Okada",
+      "tags": [
+        "Earthquake swarm",
+        "Seismic velocity structure",
+        "Shear wave splitting"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/AUYI56B6/Okada et al. - 2024 - Shear wave splitting and seismic velocity structure in the focal area of the earthquake swarm and th.pdf"
+    },
+    {
+      "title": "Toroidal mantle flow beneath the NE termination of the Kuril–Kamchatka subduction zone from seismic anisotropy",
+      "abstract": "This study presents the ﬁndings of a splitting analysis conducted on core-refracted teleseismic shear waves (SKS, SKKS and PKS, called together as XKS) and local shear waves, obtained from a dense seismological network spanning the Kamchatka Peninsula. The objective of the study is to examine the pattern of mantle ﬂow beneath the study area through the investigation of seismic anisotropy. The peninsula is situated at the northeastern end of the Kuril–Kamchatka subduction zone, where the Kuril trench intersects with the western boundary of the Aleutian trench. The data set utilized in this study comprises waveform data from a dense network of seismic stations (99 broad-band and short-period stations for the local shear wave splitting analysis and 69 broad-band stations for the SKS splitting analysis). The seismograms were downloaded from publicly available data repositories including the IRIS Data Management Center and the GFZ Data Services (GEOFON program). The dense station coverage allows us to investigate the lateral variations in anisotropy, providing insights into the ﬂow patterns within the mantle. The processing of the combined data sets of local shear wave and teleseismic XKS waves allowed us to partially decipher the source of anisotropy in the mantle. Small delay (splitting) times (∼0.35 s) observed from the local-S data suggest that anisotropy in the mantle wedge is relatively weak with lateral variations. Larger splitting times (∼1.1 s) observed for the XKS waves relative to local S suggest that the main part of splitting on the XKS waves occurs in the subslab mantle. On the other hand, the rotational pattern of seismic anisotropy observed by both the local S and XKS waves suggests the presence of a toroidal ﬂow at the NE edge of the subducting slab, which affects both the mantle wedge and subslab mantle. For the regions away from the edge of the slab, the mantle ﬂow seems to be governed mainly by the drag of the lithospheric plate over the underlying asthenosphere.",
+      "doi": "10.1093/gji/ggae047",
+      "year": 2024,
+      "journal": "Geophysical Journal International",
+      "first_author": "Kaviani",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/VLABSGA5/Kaviani et al. - 2024 - Toroidal mantle flow beneath the NE termination of the Kuril–Kamchatka subduction zone from seismic.pdf"
+    },
+    {
+      "title": "Shallow sources of upper mantle seismic anisotropy in East Africa",
+      "abstract": "The East African rift overlies one or more mantle upwellings and it traverses heterogeneous Archaean-Paleozoic lithosphere rifted in Mesozoic and Cenozoic time. We re-analyze XKS shear wave splitting at publicly available stations to evaluate models for rifting above mantle plumes. We use consistent criteria to compare and contrast both splitting direction and strength, infilling critical gaps with new data from the Turkana Depression and North Tanzania Divergence sectors of the East African rift system. Our results show large spatial variations in the amount of splitting (0.1–2.5 s), with fast axes predominantly sub-parallel to the orientation of Cenozoic rifts underlain by thinned lithosphere with and without surface magmatism. The amount of splitting increases with lithospheric thinning and magmatic modification. Nowhere are fast axes perpendicular to the rift, arguing against the development of extensional strain fabrics. Thick cratons are characterized by small amounts of splitting (≤0.5 s) with a variety of orientations that may characterize mantle plume flow. Splitting rotates to rift parallel and increases in strength over short distances into rift zones, implying a shallow depth range for the anisotropy in some places. The shallow source and correlation between splitting direction and the shape of upper mantle thin zones suggests that the combination of channel flow and oriented melt pockets contribute > 1 s to the observed splitting delays. Enhanced flow, metasomatism, and melt intrusion at the lithosphere-asthenosphere boundary suggest that fluid infiltration to the base of the lithosphere may facilitate rifting of cratonic lithosphere.",
+      "doi": "10.1016/j.epsl.2023.118488",
+      "year": 2024,
+      "journal": "Earth and Planetary Science Letters",
+      "first_author": "Ebinger",
+      "tags": [
+        "East African rift",
+        "Mantle flow",
+        "Oriented melt pockets",
+        "Shear-wave splitting"
+      ],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "The expression of mantle seismic anisotropy in the global seismic wavefield",
+      "abstract": "The dependence of seismic wave speeds on propagation or polarization direction, called seismic anisotropy, is a relatively direct indicator of mantle deformation and flow. Mantle seismic anisotropy is often inferred from measurements of shear-wave splitting. A number of standard techniques to measure shear-wave splitting have been applied globally; for example, *KS splitting is often used to measure upper mantle anisotropy. In order to obtain robust constraints on anisotropic geometry, it is necessary to sample seismic anisotropy from different directions, ideally using different seismic phases with different incidence angles. However, many standard analysis techniques can only be applied for certain epicentral distances and source–receiver geometries. To search for new ways to detect mantle anisotropy, instead of focusing on the sensitivity of individual phases, we investigate the wavefield as a whole: we apply a ‘wavefield differencing’ approach to (systematically) understand what parts of the seismic wavefield are most affected by splitting due to seismic anisotropy in the mantle. We analyze differences between synthetic global wavefields calculated for isotropic and anisotropic input models, incorporating seismic anisotropy at different depths. Our results confirm that the seismic phases that are commonly used in splitting techniques are indeed strongly influenced by mantle anisotropy. However, we also identify less commonly used phases whose waveforms reflect the effects of anisotropy. For example, PS is strongly affected by splitting due to seismic anisotropy in the upper mantle. We show that PS can be used to fill in gaps in global coverage in shear-wave splitting data sets (for example, beneath ocean basins). We find that PcS is also a promising phase, and present a proof-of-concept example of PcS splitting analysis across the contiguous United States using an array processing approach. Because PcS is recorded at much shorter distances than *KS phases, PcS splitting can therefore fill in gaps in backazimuthal coverage. Our wavefield differencing results further hint at additional potential novel methods to detect and characterize splitting due to mantle seismic anisotropy.",
+      "doi": "10.1093/gji/ggae164",
+      "year": 2024,
+      "journal": "Geophysical Journal International",
+      "first_author": "Wolf",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/NDQXR6JK/Wolf et al. - 2024 - The expression of mantle seismic anisotropy in the global seismic wavefield.pdf"
+    },
+    {
+      "title": "Shallow sources of upper mantle seismic anisotropy in East Africa",
+      "abstract": "The East African rift overlies one or more mantle upwellings and it traverses heterogeneous Archaean-Paleozoic lithosphere rifted in Mesozoic and Cenozoic time. We re-analyze XKS shear wave splitting at publicly available stations to evaluate models for rifting above mantle plumes. We use consistent criteria to compare and contrast both splitting direction and strength, infilling critical gaps with new data from the Turkana Depression and North Tanzania Divergence sectors of the East African rift system. Our results show large spatial variations in the amount of splitting (0.1–2.5 s), with fast axes predominantly sub-parallel to the orientation of Cenozoic rifts underlain by thinned lithosphere with and without surface magmatism. The amount of splitting increases with lithospheric thinning and magmatic modification. Nowhere are fast axes perpendicular to the rift, arguing against the development of extensional strain fabrics. Thick cratons are characterized by small amounts of splitting (≤0.5 s) with a variety of orientations that may characterize mantle plume flow. Splitting rotates to rift parallel and increases in strength over short distances into rift zones, implying a shallow depth range for the anisotropy in some places. The shallow source and correlation between splitting direction and the shape of upper mantle thin zones suggests that the combination of channel flow and oriented melt pockets contribute > 1 s to the observed splitting delays. Enhanced flow, metasomatism, and melt intrusion at the lithosphere-asthenosphere boundary suggest that fluid infiltration to the base of the lithosphere may facilitate rifting of cratonic lithosphere.",
+      "doi": "10.1016/j.epsl.2023.118488",
+      "year": 2024,
+      "journal": "Earth and Planetary Science Letters",
+      "first_author": "Ebinger",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/U9MTGSHW/Ebinger et al. - 2024 - Shallow sources of upper mantle seismic anisotropy in East Africa.pdf"
+    },
+    {
+      "title": "Automated shear-wave splitting analysis for single- and multi- layer anisotropic media",
+      "abstract": "Shear-wave velocity anisotropy is present throughout the earth. The strength and orientation of anisotropy can be observed by shear-wave splitting (birefringence) accumulated between earthquake sources and receivers. Seismic deployments are getting ever larger, increasing the number of earthquakes detected and the number of source-receiver pairs. Here, we present a new Python software package, SWSPy, that fully automates shear-wave splitting analysis, useful for large datasets. The software is written in Python, so it can be easily integrated into existing workflows. Furthermore, seismic anisotropy studies typically make a single-layer approximation, but in this work we describe a new method for measuring anisotropy for multi-layered media, which is also implemented. We demonstrate the performance of SWSPy for a range of geological settings, from glaciers to Earth's mantle. We show how the package facilitates interpretation of an extensive dataset at a volcano, and how the new multi-layer method performs on synthetic and real-world data. The automated nature of SWSPy and the discrimination of multi-layer anisotropy will improve the quantification of seismic anisotropy, especially for tomographic applications. The method is also relevant for removing anisotropic effects, important for applications including full-waveform inversion and moment magnitude analysis.",
+      "doi": "10.26443/seismica.v2i2.1031",
+      "year": 2023,
+      "journal": "Seismica",
+      "first_author": "Hudson",
+      "tags": [
+        "seismic anisotropy",
+        "Passive Seismology"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/3UFXJA3P/Hudson et al. - 2023 - Automated shear-wave splitting analysis for single- and multi- layer anisotropic media.pdf"
+    },
+    {
+      "title": "Hydrothermal Fluids and Where to Find Them: Using Seismic Attenuation and Anisotropy to Map Fluids Beneath Uturuncu Volcano, Bolivia",
+      "abstract": "Mapping fluid accumulation in the crust is pertinent for numerous applications including volcanic hazard assessment, geothermal energy generation, and mineral exploration. Here, we use seismic attenuation tomography to map the distribution of fluids in the crust below Uturuncu volcano, Bolivia. Seismic P wave and S wave attenuation, as well as their ratio (QP/QS), constrain where the crust is partially and fully fluid-saturated. Seismic anisotropy observations further constrain the mechanism by which the fluids accumulate, predominantly along aligned faults and fractures in this case. Furthermore, subsurface pressure-temperature profiles and conductivity data allow us to identify the most likely fluid composition. We identify shallow regions of both dry and H2O/brine-saturated crust, as well as a deeper supercritical H2O/brine column directly beneath Uturuncu. Our observations provide a greater understanding of Uturuncu's transcrustal hydrothermal system, and act as an example of how such methods could be applied to map crustal fluid pathways and hydrothermal/geothermal systems elsewhere.",
+      "doi": "10.1029/2022GL100974",
+      "year": 2023,
+      "journal": "Geophysical Research Letters",
+      "first_author": "Hudson",
+      "tags": [
+        "attenuation",
+        "geothermal",
+        "hydrothermal fluids",
+        "mineral exploration",
+        "seismology",
+        "volcanoes"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/NDX6DW4V/Hudson et al. - 2023 - Hydrothermal Fluids and Where to Find Them Using Seismic Attenuation and Anisotropy to Map Fluids B.pdf"
+    },
+    {
+      "title": "Imaging upper mantle anisotropy with traveltime and splitting intensity observations from teleseismic shear waves: insights from tomographic reconstructions of subduction simulations",
+      "abstract": "Teleseismic traveltime tomography remains one of the most popular methods for obtaining images of Earth’s upper mantle. However, despite extensive evidence for an elastically anisotropic mantle, the isotropic assumption remains commonplace in such imaging studies. This can result in significant model artefacts which in turn may yield misguided inferences regarding mantle dynamics. The nature of anisotropy-induced apparent velocity anomalies has been well-documented in P-wave imaging and various strategies have been proposed to constrain both isotropic and anisotropic heterogeneity from these data. In contrast, few studies have explored the consequences for shear wave tomography and no practical framework for the anisotropic inversion of S-wave delays exists. Here, we propose a new method for constraining arbitrarily oriented hexagonal anisotropy using both traveltime and splitting intensity observations from direct S phases. Our approach accounts for polarization and finite-frequency effects and allows for isotropic starting models. The imaging method is validated through the tomographic analysis of a realistic synthetic dataset produced from waveform simulations through a geodynamic model of subduction. Results illustrate that neglecting anisotropy produces distortions in slab geometry and the appearance of sub- and supraslab low-velocity zones. Anisotropic inversions remove these artefacts while also constraining geodynamically relevant fabric properties including dip.",
+      "doi": "10.1093/gji/ggad389",
+      "year": 2023,
+      "journal": "Geophysical Journal International",
+      "first_author": "VanderBeek",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/NVQQ7ES4/VanderBeek et al. - 2023 - Imaging upper mantle anisotropy with traveltime and splitting intensity observations from teleseismi.pdf"
+    },
+    {
+      "title": "Shear wave splitting of the 2018 Lombok earthquake aftershock area, Indonesia",
+      "abstract": "Lombok is one of the islands in the transitional zone from the Sunda Arc to the Banda Arc, Indonesia. In the mid-2018, the island of Lombok was shaken by a series of strong earthquakes, started with a moment magnitude (Mw) 6.4 earthquake on July 29, 2018 followed by earthquakes on August 5 (Mw 7.0), August 9 (Mw 5.9), and August 19 (Mw 6.3 and 6.9). Some researchers suggested that this phenomenon occurred due to a segmentation rupture in the northern part of Lombok Island. This study aims to obtain information on the distribution of the Lombok earthquake fault zone 2018 and also to understand the character of seismic anisotropy around the Lombok earthquake fault zone 2018 through Shear Wave Splitting (SWS) study. Splitting, or S-wave separation, occurs when the S wave passes through an anisotropic medium. The S wave is split into fast and slow S waves with almost orthogonal polarizations and has parameters such as delay time and polarization direction of the fast S wave. To determine the SWS parameters, we used a Lombok earthquake aftershock data set recorded from 4 August to 9 September 2018, using 16 seismographic stations. The steps taken to obtain the SWS parameters are event selection, windowing using short time Fourier transform, and rotation-correlation process. The results of the SWS analysis indicate that the fast polarization directions probably have a linkage with the local fault system and the fault related to the Lombok earthquake fault zone.",
+      "doi": "10.1186/s40562-022-00258-3",
+      "year": 2023,
+      "journal": "Geoscience Letters",
+      "first_author": "Sasmi",
+      "tags": [
+        "Shear wave splitting",
+        "2018 Lombok earthquake",
+        "Delay time",
+        "Fast polarization direction"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/Z3IG6CGD/Sasmi et al. - 2023 - Shear wave splitting of the 2018 Lombok earthquake aftershock area, Indonesia.pdf"
+    },
+    {
+      "title": "Mapping Mantle Flows and Slab Anisotropy in the Cascadia Subduction Zone",
+      "abstract": "The Cascadia margin is an unusual subduction zone characterized by the downdip movement of young and thin oceanic plates, where mantle flow and intraslab deformation are still unclear. Here we present new anisotropic tomography of the Cascadia subduction zone, in which the hexagonal symmetry axis of anisotropy is tilting rather than horizontal or vertical as assumed in previous studies of seismic anisotropy. Subduction-induced entrained and toroidal flows under the Cascadia margin are discriminated well by the spatial relationship between tilting-axis anisotropy and slab geometry. The obliquely entrained flow is trapped in a narrow zone (<100 km wide) above and below the subducting slab and reaches ∼200 km depth, which is surrounded by large-scale sub-horizontal toroidal flow. The intraslab anisotropy is trench-normal above 80 km depth but changes to trench-parallel at 100–400 km depths, which may reflect fossil anisotropy overprinted by deep deformation beneath the arc, or joint effect of serpentinization and hydrous faulting.",
+      "doi": "10.1029/2023GL105527",
+      "year": 2023,
+      "journal": "Geophysical Research Letters",
+      "first_author": "Liang",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/JVE2YVSJ/Liang et al. - 2023 - Mapping Mantle Flows and Slab Anisotropy in the Cascadia Subduction Zone.pdf"
+    },
+    {
+      "title": "On the effects of wrongly aligned seismogram components for shear wave splitting analysis",
+      "abstract": "Seismic anisotropy inside the Earth’s interior, especially in the upper and lowermost mantle, is commonly studied by measuring shear wave splitting. This is mostly done by the determination of the splitting parameters fast polarization direction and delay time as well as the splitting intensity. The applied techniques highly rely on the correct temporal alignment of the single component traces (vertical, North, East referred to as Z, N, E components) of an earthquake relative to each other. Mixing wrongly aligned recording components would result in misleading and wrong data representations, including the particle motions in both the ZNE and the ray (LQT) coordinate systems and waveforms in the LQT coordinate system. The main pitfall in this context is that start and end times of the single traces in general differ due to data storage details. Unfortunately, the code of the widely used MATLAB based shear wave splitting software package SplitLab contains an error which can cause a wrong relative temporal alignment of the input seismograms in some cases. This effect distorts under certain conditions splitting signals or simulates non-existing ones. We show examples and offer a remedy.",
+      "doi": "10.4401/ag-8781",
+      "year": 2022,
+      "journal": "Annals of Geophysics",
+      "first_author": "Fröhlich",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/US24PTFP/Fröhlich et al. - 2022 - On the effects of wrongly aligned seismogram components for shear wave splitting analysis.pdf"
+    },
+    {
+      "title": "On the Origin of Seismic Anisotropy in the Shallow Crust of the Northern Volcanic Zone, Iceland",
+      "abstract": "The Icelandic crust is a product of its unique tectonic setting, where the interaction of an ascending mantle plume and the Mid-Atlantic Ridge has caused elevated mantle melting, with the melt accreted and cooled in the crust to form an oceanic plateau. We investigate the strength and orientation of seismic anisotropy in the upper crust of the Northern Volcanic Zone using local earthquake shear-wave splitting, with a view to understanding how the contemporary stress field may influence sub-wavelength structure and processes. This is achieved using a data set comprising 50,000 earthquakes located in the top 10 km of the crust, recorded by up to 70 stations over a 9 year period. We find that anisotropy is largely confined to the top 3–4 km of the crust, with an average delay time of 0.10 ± 0.05 s, and an average orientation of the fast axis of anisotropy of N014°E ± 27°, which is perpendicular to the spreading direction of the Eurasian and North American plates (N106°E). These results are consistent with the presence of rift-parallel cracks that gradually close with depth, the preferential opening of which is controlled by the regional stress field. Lateral variations in the strength of shear wave anisotropy (SWA) reveal that regions with the highest concentrations of earthquakes have the highest SWA values (∼10%), which reflects the presence of significant brittle deformation. Disruption of the orientation of the fast axis of anisotropy around Askja volcano can be related to local stress changes caused by underlying magmatic processes.",
+      "doi": "10.1029/2021JB022655",
+      "year": 2022,
+      "journal": "Journal of Geophysical Research: Solid Earth",
+      "first_author": "Bacon",
+      "tags": [
+        "seismic anisotropy",
+        "shear-wave splitting",
+        "Askja",
+        "Iceland",
+        "stress modeling"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/3AYHIGZI/Bacon et al. - 2022 - On the Origin of Seismic Anisotropy in the Shallow Crust of the Northern Volcanic Zone, Iceland.pdf"
+    },
+    {
+      "title": "Heterogeneous seismic anisotropy beneath Madeira and Canary archipelagos revealed by local and teleseismic shear wave splitting",
+      "abstract": "Mid-plate upward mantle ﬂow is a key component of global mantle convection, but its patterns are poorly constrained. Seismic anisotropy is the most direct way to infer mantle ﬂow as well as melt distribution, yet the convection patterns associated with plume-like mantle upwelling are understudied due to limited seismic data coverage. Here, we investigate seismic anisotropy beneath the Madeira and Canary hotspots using a dense set of shear wave splitting observations and combining teleseismic and local events recorded by three-component broad-band and short-period seismic stations. Using a total of 26 stations in the Madeira archipelago and 43 stations around the Canary Islands, we obtain 655 high-quality measurements that reveal heterogeneous ﬂow patterns. Although local event results are sparse around most islands, we can observe a small average of S-wave splitting times of 0.16 ± 0.01 s, which signiﬁcantly increase with source depth beneath El Hierro (>20 km) and Tenerife (>38 km) up to 0.58 ± 0.01 and 0.47 ± 0.05 s. This suggests an inﬂuence of melt pocket orientation in magma reservoirs developed at uppermost-mantle depths. Likewise, anisotropy increases signiﬁcantly beneath the islands with shield stage volcanism (up to 9.81 ± 1.78 per cent at El Hierro, western Canaries, against values up to 1.76 ± 0.73 per cent at Lanzarote, eastern Canaries). On average, teleseismic SKS-wave splitting delay times are large (2.19 ± 0.05 s), indicating sublithospheric mantle ﬂow as the primary source for anisotropy in the region. In the Canaries, the western islands show signiﬁcantly smaller average SKS delay times (1.93 ± 0.07 s) than the eastern ones (2.25 ± 0.11 s), which could be explained by destructive interference above the mantle upwelling. Despite complex patterns of fast polarization directions throughout both regions, some azimuthal pattern across close stations can be observed and related to presentday mantle ﬂow and anisotropy frozen in the lithosphere since before 60 Ma. Additionally, we infer that the current presence of a mantle plume beneath the archipelagos leads to the associated complex, small-scale heterogeneous anisotropy observations.",
+      "doi": "10.1093/gji/ggac472",
+      "year": 2022,
+      "journal": "Geophysical Journal International",
+      "first_author": "Schlaphorst",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/XYJIE5HV/Schlaphorst et al. - 2022 - Heterogeneous seismic anisotropy beneath Madeira and Canary archipelagos revealed by local and teles.pdf"
+    },
+    {
+      "title": "Seismicity and Crustal Structure of the Southern Main Ethiopian Rift: New Evidence From Lake Abaya",
+      "abstract": "The Main Ethiopian Rift (MER) has developed during the 18 Ma-Recent separation of the Nubian and Somalian plates. Extension in its central and northern sectors is associated with seismic activity and active magma intrusion, primarily within the rift, where shallow (5 km) seismicity along magmatic centers is commonly caused by fluid flow through open fractures in hydrothermal systems. However, the extent to which similar magmatic rifting persists into the southern MER is unknown. Using data from a temporary network of five seismograph stations, we analyze patterns of seismicity and crustal structure in the Abaya region of the southern MER. Magnitudes range from 0.9 to 4.0; earthquake depths are 0–30 km. ratios of 1.69, estimated from Wadati diagram analysis, corroborate bulk-crustal ratios determined via teleseismic P-to-S receiver function H- stacking and reveal a relative lack of mafic intrusion compared to the MER rift sectors to the north. There is a clear association of seismicity with the western border fault system of the MER everywhere in our study area, but earthquake depths are shallow near Duguna volcano, implying a shallowed geothermal gradient associated with rift valley silicic magmatism. This part of the MER is thus interpreted best as a young magmatic system that locally impacts the geothermal gradient but that has not yet significantly modified continental crustal composition via rift-axial magmatic rifting.",
+      "doi": "10.1029/2021GC009831",
+      "year": 2021,
+      "journal": "Geochemistry, Geophysics, Geosystems",
+      "first_author": "Ogden",
+      "tags": [
+        "crustal structure",
+        "East African Rift seismicity",
+        "Ethiopia",
+        "local seismicity",
+        "seismic networks"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/GVQ96UIB/Ogden et al. - 2021 - Seismicity and Crustal Structure of the Southern Main Ethiopian Rift New Evidence From Lake Abaya.pdf"
+    },
+    {
+      "title": "Anisotropic tomography of the Cascadia subduction zone",
+      "abstract": "The first P-wave tomography of 3-D azimuthal and radial anisotropy of the Cascadia subduction zone is determined by inverting local and teleseismic arrival-time data. Fast-velocity directions (FVDs) of azimuthal anisotropy in the crust are generally trench-parallel, reflecting N-S compression along the Cascadia margin. Radial anisotropy (RAN) is negative (i.e., Vpv > Vph) in the crust and upper-mantle wedge beneath the Cascadia volcanoes and back-arc area, reflecting hot and wet upwelling flows associated with fluids from dehydration reactions of the young and warm Juan de Fuca plate that is subducting toward the northeast. Trench-parallel FVDs occur in the subducting slab under the forearc, suggesting that the gently-dipping slab may still keep its original anisotropy produced at the mid-ocean ridge and modified at the outer-rise before subduction. The slab and subslab mantle exhibit the same RAN pattern: positive RAN in the Cascadia forearc whereas negative RAN under the Cascadia volcanoes and the back-arc. This feature suggests that the slab and the subslab asthenosphere are strongly coupled, and subslab mantle flow is formed by entrainment of the asthenosphere with the overriding slab. In northern Cascadia, NE-SW FVDs occur in a prominent subslab low-velocity zone that also exhibits negative RAN, reflecting thermally buoyant mantle materials derived from nearby oceanic hotspots, which flow toward the northeast and gradually accumulate under northern Cascadia, resulting in decompression melting.",
+      "doi": "10.1016/j.pepi.2021.106767",
+      "year": 2021,
+      "journal": "Physics of the Earth and Planetary Interiors",
+      "first_author": "Zhao",
+      "tags": [
+        "Azimuthal anisotropy",
+        "Cascadia",
+        "Earthquake",
+        "Radial anisotropy",
+        "Seismic anisotropy",
+        "Seismic tomography",
+        "Subduction zone",
+        "Volcano"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/T5UFT7LV/Zhao and Hua - 2021 - Anisotropic tomography of the Cascadia subduction zone.pdf"
+    },
+    {
+      "title": "Strong seismic anisotropy in the deep upper mantle beneath the Cascadia backarc: Constraints from probabilistic finite-frequency SKS splitting intensity tomography",
+      "abstract": "",
+      "doi": "10.1016/j.epsl.2020.116172",
+      "year": 2020,
+      "journal": "Earth and Planetary Science Letters",
+      "first_author": "Mondal",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/ATB7KNMY/Mondal and Long - 2020 - Strong seismic anisotropy in the deep upper mantle beneath the Cascadia backarc Constraints from pr.pdf"
+    },
+    {
+      "title": "Continuum Mechanics for Engineers",
+      "abstract": "A bestselling textbook in its first three editions, Continuum Mechanics for Engineers, Fourth Edition provides engineering students with a complete, concise, and accessible introduction to advanced engineering mechanics. It provides information that is useful in emerging engineering areas, such as micro-mechanics and biomechanics. Through a mastery of this volume's contents and additional rigorous finite element training, readers will develop the mechanics foundation necessary to skillfully use modern, advanced design tools. Features: Provides a basic, understandable approach to the concepts, mathematics, and engineering applications of continuum mechanics Updated throughout, and adds a new chapter on plasticity Features an expanded coverage of fluids Includes numerous all new end-of-chapter problems With an abundance of worked examples and chapter problems, it carefully explains necessary mathematics and presents numerous illustrations, giving students and practicing professionals an excellent self-study guide to enhance their skills.",
+      "doi": null,
+      "year": 2020,
+      "journal": null,
+      "first_author": "Mase",
+      "tags": [
+        "Continuum mechanics"
+      ],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Probing depth and lateral variations of upper-mantle seismic anisotropy from full-waveform inversion of teleseismic body-waves",
+      "abstract": "While seismic anisotropy can potentially provide crucial insights into mantle dynamics, 3-D imaging of seismic anisotropy is still a challenging problem. Here, we present an extension of our regional full-waveform inversion method to image seismic anisotropy in the lithosphere and asthenosphere from teleseismic P and S waveforms. The models are parametrized in terms of density and the 21 elastic coefﬁcients of the fourth-order elasticity tensor. The inversion method makes no a priori assumptions on the symmetry class or on the orientation of the symmetry axes. Instead, the elasticity tensors in the ﬁnal models are decomposed with the projection method. This method allows us to determine the orientation of the symmetry axes and to extract the contributions of each symmetry class. From simple synthetic experiments, we demonstrate that our full-waveform inversion method is able to image complex 3-D anisotropic structures. In particular, the method is able to almost perfectly recover the general orientation of the symmetry axis or complex layered anisotropic models, which are both extremely challenging problems. We attribute this success to the joint exploitation of both P and S teleseismic waves, which constrain different parts of the elasticity tensor. Another key ingredient is the preconditioning of the gradient with an approximate inverse Hessian computed with scattering integrals. The inverse Hessian is crucial for mitigating the artefacts resulting from the uneven (mostly vertical) illumination of teleseismic acquisitions.",
+      "doi": "10.1093/gji/ggaa069",
+      "year": 2020,
+      "journal": "Geophysical Journal International",
+      "first_author": "Beller",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/4FIC9PHS/Beller and Chevrot - 2020 - Probing depth and lateral variations of upper-mantle seismic anisotropy from full-waveform inversion.pdf"
+    },
+    {
+      "title": "Shear Wave Splitting with a Dense Array: New Insights on Cascadia from iMUSH",
+      "abstract": "Observations of seismic anisotropy can provide direct constraints on the character of mantle flow in subduction zones, critical for our broader understanding of subduction dynamics. Here we present over 750 new SKS splitting measurements in the vicinity of Mount St. Helens in the Cascadia subduction zone using a combination of stations from the iMUSH broadband array and Cascades Volcano Observatory network. This provides the highest density of splitting measurements yet available in Cascadia (10 km station spacing), acting as a focused telescope for seismic anisotropy in the subduction zone. We retrieve spatially consistent splitting parameters (mean fast direction Φ: 74°, mean delay time ∂t: 1.0s) with the azimuthal occurrence of nulls in agreement with the fast direction of splitting. When averaged across the array, a 90° periodicity in splitting parameters as a function of backazimuth is revealed, which has not been recovered previously with single station observations. The periodicity is characterised by a sawtooth pattern in Φ with a clearly defined 45° trend. We present new equations that reproduce this behaviour based upon known systematic errors when calculating shear wave splitting from data with realistic seismic noise. The corrected results suggest a single layer of anisotropy with an ENE-WSW fast axis parallel to the motion of the subducting Juan de Fuca plate; in agreement with predictions for entrained sub-slab mantle flow. The splitting pattern is consistent with that seen throughout Cascadia, suggesting that entrainment of the underlying asthenosphere with the subducting slab is coherent and widespread.",
+      "doi": null,
+      "year": 2019,
+      "journal": null,
+      "first_author": "Eakin",
+      "tags": [
+        "7203 Body waves",
+        "7255 Surface waves and free oscillations",
+        "7299 General or miscellaneous",
+        "SEISMOLOGY"
+      ],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Evidence of reactivation of a hydrothermal system from seismic anisotropy changes",
+      "abstract": "Seismic velocity measurements have revealed that the Tohoku-Oki earthquake affected velocity structures of volcanic zones far from the epicenter. Using a seismological method based on ambient seismic noise interferometry, we monitored the anisotropy in the Mount Fuji area during the year 2011, in which the Tohoku-Oki earthquake occurred (Mw = 9.0). Here we show that even at 400 km from the epicenter, temporal variations of seismic anisotropy were observed. These variations can be explained by changes in the alignment of cracks or fluid inclusions beneath the volcanic area due to stress perturbations and the propagation of a hydrothermal fluid surge beneath the Hakone hydrothermal volcanic area. Our results demonstrate how a better understanding of the origin of anisotropy and its temporal changes beneath volcanoes and in the crust can provide insight into active processes, and can be used as part of a suite of volcanic monitoring and forecasting tools.",
+      "doi": "10.1038/s41467-019-13156-8",
+      "year": 2019,
+      "journal": "Nature Communications",
+      "first_author": "Saade",
+      "tags": [
+        "Seismology",
+        "Geophysics",
+        "Volcanology"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/Z7SRNNRP/Saade et al. - 2019 - Evidence of reactivation of a hydrothermal system from seismic anisotropy changes.pdf"
+    },
+    {
+      "title": "Influence of Stress Field Changes on Eruption Initiation and Dynamics: A Review",
+      "abstract": "Three main (first-order) mechanisms of stress variation able to influence the triggering of volcanic eruptions and the possible impact on eruption dynamics were reviewed. They are short- and long-term unloading, seismic energy effects, and changes in far field stress due to geodynamic processes. An equilibrium equation for rupture of magma chamber and opening of a dyke up to the surface was derived, taking into account the contribution of each mechanism within the equation. The equation considers the effect of possible superimposition of the three mechanisms with internal processes to the magmatic system, and it was also used for discussing the possible influence on eruption dynamics. The different possible contribution to the eruption triggering was discussed for each mechanism, highlighting how, in many cases, a single mechanism alone is not sufficient for driving eruptive activity if the magmatic system is not close to eruptive conditions.",
+      "doi": "10.3389/feart.2017.00018",
+      "year": 2017,
+      "journal": "Frontiers in Earth Science",
+      "first_author": "Sulpizio",
+      "tags": [
+        "Eruptive dynamics",
+        "Far field stress",
+        "seismic energy",
+        "Stress change",
+        "unloading",
+        "Volcanic Eruptions"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/Q5YDRR4W/Sulpizio and Massaro - 2017 - Influence of Stress Field Changes on Eruption Initiation and Dynamics A Review.pdf"
+    },
+    {
+      "title": "Relative seismic velocity variations correlate with deformation at Kīlauea volcano",
+      "abstract": "Seismic velocity changes correlate with deformation at Kīlauea volcano, advancing noise interferometry as a monitoring tool., Seismic noise interferometry allows the continuous and real-time measurement of relative seismic velocity through a volcanic edifice. Because seismic velocity is sensitive to the pressurization state of the system, this method is an exciting new monitoring tool at active volcanoes. Despite the potential of this tool, no studies have yet comprehensively compared velocity to other geophysical observables on a short-term time scale at a volcano over a significant length of time. We use volcanic tremor (~0.3 to 1.0 Hz) at Kīlauea as a passive source for interferometry to measure relative velocity changes with time. By cross-correlating the vertical component of day-long seismic records between ~230 station pairs, we extract coherent and temporally consistent coda wave signals with time lags of up to 120 s. Our resulting time series of relative velocity shows a remarkable correlation between relative velocity and the radial tilt record measured at Kīlauea summit, consistently correlating on a time scale of days to weeks for almost the entire study period (June 2011 to November 2015). As the summit continually deforms in deflation-inflation events, the velocity decreases and increases, respectively. Modeling of strain at Kīlauea suggests that, during inflation of the shallow magma reservoir (1 to 2 km below the surface), most of the edifice is dominated by compression—hence closing cracks and producing faster velocities—and vice versa. The excellent correlation between relative velocity and deformation in this study provides an opportunity to understand better the mechanisms causing seismic velocity changes at volcanoes, and therefore realize the potential of passive interferometry as a monitoring tool.",
+      "doi": "10.1126/sciadv.1700219",
+      "year": 2017,
+      "journal": "Science Advances",
+      "first_author": "Donaldson",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/DBFY4HPD/Donaldson et al. - 2017 - Relative seismic velocity variations correlate with deformation at Kīlauea volcano.pdf"
+    },
+    {
+      "title": "Repressurization following eruption from a magma chamber with a viscoelastic aureole",
+      "abstract": "I analyze an approximate solution for spherical magma chambers (radius R1) surrounded by Maxwell viscoelastic shells (radius R2) in elastic half-spaces following a sudden decrease in pressure. Mass flux into the chamber is proportional to the pressure difference between a deep source and chamber, . Solutions depend on R2/R1, , where βm,βc are magma and chamber compressibilities, tR is the relaxation time, and τ is the recharge time for the elastic system. Without recharge the system exhibits either posteruptive deflation or, for incompressible magmas, partial reinflation. More generally, immediate posteruptive inflation is favored by large and small R2/R1. With short tR and large the time for magma chamber pressure to recover increases significantly. Posteruptive creep increases the chamber pressure, decreasing the pressure gradient driving recharge, delaying pressure recovery. Following eruption the hoop stresses, which are initially compressive, relax toward the radial stress causing them to go through a local (relative tension) maximum. The magma pressure in excess of the dike normal compression at the chamber wall can recover to preeruptive values well before the chamber pressure or erupted mass recovers. This suggests that dikes could nucleate at the chamber margin well before sufficient pressure has recovered to drive them far from the chamber. For some parameters coeruptive deflation has not fully recovered when the magma overpressure relative to hoop stress in the elastic region is restored to preeruptive values, a condition assumed to be sufficient for eruption.",
+      "doi": "10.1002/2016JB013597",
+      "year": 2016,
+      "journal": "Journal of Geophysical Research: Solid Earth",
+      "first_author": "Segall",
+      "tags": [
+        "inflation",
+        "magma chamber",
+        "viscoelastic"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/YQC7AWVN/Segall - 2016 - Repressurization following eruption from a magma chamber with a viscoelastic aureole.pdf"
+    },
+    {
+      "title": "Modeling shear wave splitting due to stress-induced anisotropy, with an application to Mount Asama Volcano, Japan",
+      "abstract": "AbstractWe use numerical modeling to investigate the proposed stress-based origin for changing anisotropy at Mount Asama Volcano, Japan. Stress-induced anisotropy occurs when deviatoric stress conditions are applied to rocks which are permeated by microcracks and compliant pore space, leading to an anisotropic distribution of open crack features. Changes to the local stress field around volcanoes can thus affect the anisotropy of the region. The 2004 eruption of Mount Asama Volcano coincided with time-varying shear wave splitting measurements, revealing changes in anisotropy that were attributed to stress changes associated with the eruption. To test this assertion, we create a model that incorporates knowledge of the volcanic stress, ray tracing, and estimation of the anisotropy to produce synthetic shear wave splitting results using a dyke stress model. Anisotropy is calculated in two ways, by considering a basic case of having uniform crack density and a case where the strength of anisotropy is related to dry crack closure from deviatoric stress. Our results show that this approach is sensitive to crack density, crack compliance, and the regional stress field, all of which are poorly constrained parameters. In the case of dry crack closure, results show that modeled stress conditions produce a much smaller degree of anisotropy than indicated by measurements. We propose that the source of anisotropy changes at Asama is tied to more complex processes that may precipitate from stress changes or other volcanic processes, such as the movement of pore fluid.",
+      "doi": "10.1002/2013JB010817",
+      "year": 2014,
+      "journal": "Journal of Geophysical Research: Solid Earth",
+      "first_author": "Shelley",
+      "tags": [
+        "volcanoes",
+        "anisotropy",
+        "Asama",
+        "stress"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/4BPV4I6Z/Shelley et al. - 2014 - Modeling shear wave splitting due to stress-induced anisotropy, with an application to Mount Asama V.pdf"
+    },
+    {
+      "title": "Silver and Chan revisited",
+      "abstract": "Seismic shear waves emitted by earthquakes can be modeled as plane (transverse) waves. When entering an anisotropic medium, they can be split into two orthogonal components moving at different speeds. This splitting occurs along an axis, the fast polarization, that is determined by geologic conditions. We present here a comprehensive analysis of the Silver and Chan (1991) method, used to obtain shear wave splitting parameters, comprising theoretical derivations and statistical tests of the assumptions used to construct the standard errors. We find discrepancies in the derivations of equations in their article, with the most important being a mistake in how the standard errors are calculated. Our simulations suggest that the degrees of freedom are being overestimated by this method, and consequently, the standard errors are too small. Using a set of S waveforms from very similar shallow earthquakes on Reunion Island, we perform a statistical analysis on the noise of these replicates and find that the assumption of Gaussian noise does not hold. Further, the properties of background noise differ substantially from the noise obtained from the shear wave splitting analysis. However, we find that the estimated standard errors for the fast polarization are comparable to the spread in the fast polarization parameters between events. Delay time errors appear to be comparable to delay time estimates once cycle skipping is accounted for. Future work using synthetic seismograms with simulated noise should be conducted to confirm this is the case for earthquakes in general.",
+      "doi": "10.1002/jgrb.50386",
+      "year": 2013,
+      "journal": "Journal of Geophysical Research: Solid Earth",
+      "first_author": "Walsh",
+      "tags": [
+        "multiplets",
+        "noise characteristics",
+        "seismic anisotropy",
+        "shear wave splitting",
+        "Silver and Chan method",
+        "standard errors"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/NE9LDBIV/Walsh et al. - 2013 - Silver and Chan revisited.pdf"
+    },
+    {
+      "title": "A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fracture characteristics",
+      "abstract": "Monitoring of induced seismicity is gaining importance in a broad range of industrial operations from hydrocarbon reservoirs to mining to geothermal fields. Such passive seismic monitoring mainly aims at identifying fractures, which is of special interest for safety and productivity reasons. By analysing shear-wave splitting it is possible to determine the anisotropy of the rock, which may be caused by sedimentary layering and/or aligned fractures, which in turn offers insight into the state of stress in the reservoir. We present a workflow strategy for automatic and effective processing of passive microseismic data sets, which are ever increasing in size. The automation provides an objective quality control of the shear-wave splitting measurements and is based on characteristic differences between the two independent eigenvalue and crosscorrelation splitting techniques. These differences are summarized in a quality index for each measurement, allowing identification of an appropriate quality threshold. Measurements above this threshold are considered to be of good quality and are used in further interpretation. We suggest an automated inversion scheme using rock physics theory to test for best correlation of the data with various combinations of fracture density, its strike and the background anisotropy. This fully automatic workflow is then tested on a synthetic and a real microseismic data set.",
+      "doi": "10.1111/j.1365-2478.2010.00891.x",
+      "year": 2010,
+      "journal": "Geophysical Prospecting",
+      "first_author": "Wuestefeld",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/6SRB6FXU/Wuestefeld et al. - 2010 - A strategy for automated analysis of passive microseismic data to image seismic anisotropy and fract.pdf"
+    },
+    {
+      "title": "Seismic identification of along-axis hydrothermal flow on the East Pacific Rise",
+      "abstract": "Hydrothermal circulation at the axis of mid-ocean ridges occurs when water seeps through fissures on the seafloor and travels down towards molten rock where it warms, finally emerging as super-heated fluid at hydrothermal vents. These vent systems account for much of the heat and mass transfer from the crust to the ocean. It is commonly thought that the direction of circulation in these systems is across the ridge axis, with recharge occurring along faults away from the axis. This view is based mainly on modelling. Now, after seven months of monitoring of microearthquake locations beneath a hydrothermal vent field on the East Pacific Rise, Tolstoy et al. report that here at least, the hydrothermal down-flow zone is probably located on the ridge axis, with hydrothermal circulation oriented along the ridge axis.",
+      "doi": "10.1038/nature06424",
+      "year": 2008,
+      "journal": "Nature",
+      "first_author": "Tolstoy",
+      "tags": [
+        "Humanities and Social Sciences",
+        "multidisciplinary",
+        "Science"
+      ],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/GG4DF3JX/Tolstoy et al. - 2008 - Seismic identification of along-axis hydrothermal flow on the East Pacific Rise.pdf"
+    },
+    {
+      "title": "Stress-induced temporal variations in seismic anisotropy observed in microseismic data",
+      "abstract": "In situ stress monitoring of crustal rocks is desirable as it yields insights into earthquake mechanisms, volcanic eruptions and changes in hydrocarbon reservoirs. Shear wave splitting, induced by stress-controlled cracks in the shallow crust, provides a way to infer this stress. Temporal variations in these observations can be difficult to quantify due to scatter in the data and discontinuous observations. Here we present evidence of temporal variations in shear wave splitting from a continuous time-series with a high occurrence of microseismic events recorded in a borehole. We interpret these observations in terms of stress-controlled cracks and are able to infer changes in stress and, via modelling, suggest the cause of the anisotropy. Possible origins of the temporal variation in per cent anisotropy are tidal or oil-field production processes. Our results suggest that shear wave splitting is a viable probe for inferring changes in crustal stress in cracked rock.",
+      "doi": "10.1111/j.1365-246X.2004.02212.x",
+      "year": 2004,
+      "journal": "Geophysical Journal International",
+      "first_author": "Teanby",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/9T9ZSSXX/Teanby et al. - 2004 - Stress-induced temporal variations in seismic anisotropy observed in microseismic data.pdf"
+    },
+    {
+      "title": "Automation of Shear-Wave Splitting Measurements using Cluster Analysis",
+      "abstract": "The propagation of two orthogonally polarized shear waves, or shear-wave splitting, is arguably the most robust indication of seismic anisotropy in the Earth. This splitting can be parameterized in terms of the polarization of the fast shear-wave ϕ and the lag time between fast and slow components δt. These two parameters provide constraints on the mechanism causing the anisotropy. All methods of calculating splitting require a shear-wave analysis window to be selected. Then the ϕ and δt that best account for the splitting in that window are calculated. Conventionally the shear-wave analysis window is picked manually. However, manual window selection is laborious and also very subjective; in many cases different windows give very different results. We present a method for automating the selection of the window. First, the splitting analysis is performed for a range of window lengths. Then a cluster analysis is applied in order to find those measurements that are stable over many different windows. Once clusters of stable results have been found, the final choice of shear-wave analysis window corresponds to the measurement with the lowest error in the cluster with the lowest variance. Resulting estimates of ϕ and δt are objective, and very large datasets can be analyzed easily. The success of the technique is illustrated with application to a microseismic dataset of 324 events, which confirms previously published results using manually selected analysis windows.",
+      "doi": "10.1785/0120030123",
+      "year": 2004,
+      "journal": "Bulletin of the Seismological Society of America",
+      "first_author": "Teanby",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/56HH5K76/Teanby et al. - 2004 - Automation of Shear-Wave Splitting Measurements using Cluster Analysis.pdf"
+    },
+    {
+      "title": "Shear wave anisotropy beneath the Cascadia subduction zone and western North American craton",
+      "abstract": "We have examined shear wave splitting of SKS phases at 26 permanent broadband stations in western North America to constrain regional trends in anisotropy at the Cascadia subduction zone (CSZ) and adjacent regions. At forearc stations above the Juan de Fuca Plate, the fast directions are approximately parallel to the direction of absolute plate motion of the main Juan de Fuca Plate (∼N70°E). Delay times of 1.0 to 1.5 s indicate a mantle source for the anisotropy, most likely strain-induced lattice-preferred orientation of anisotropic mantle minerals. The anisotropy may be related to present-day subduction-induced deformation of the mantle beneath the subducting plate. The delay times show an increase with distance from the deformation front (trench), which may be indicative of 3–5 per cent anisotropy within the forearc mantle wedge, with a fast direction parallel to the subduction direction. Above the Explorer Plate at the northern end of the CSZ, the fast directions are N25°E. This may reflect either the more northerly subduction direction of that plate, or a transition from subduction-related deformation to along-margin flow parallel to the transcurrent Queen Charlotte Fault to the north. At four stations in the central backarc of the CSZ, fast directions are parallel to the Juan de Fuca–North America convergence direction, consistent with mantle deformation due to subduction-induced mantle wedge flow, as well as deformation of the uppermost backarc mantle associated with motion of the overriding plate. No clear splitting was observed at the two most northern backarc stations, indicating either little horizontal anisotropy or highly complex anisotropy beneath these stations, possibly associated with complex mantle flow around the northern edge of the subducted plate. The hot, thin backarc lithosphere of the Cascadia subduction zone extends to the Rocky Mountain Trench, the western boundary of the cold, stable North America craton. At two stations on the North America craton the shear wave splitting parameters show significant azimuthal variations with a 90° periodicity, characteristic of multiple layers of anisotropy. The observations were fitted with a two-layer model with an upper anisotropic layer with a fast direction of N12°E and delay time of 1.4 s, and a lower layer with a fast direction of N81°E and delay time of 2.0 s. The North America craton is characterized by a thick lithosphere. Thus, the two anisotropic layers may reflect an upper layer of fossil anisotropy within the cool (&lt;900 °C) lithosphere and an underlying anisotropic layer produced by present-day deformation.",
+      "doi": "10.1111/j.1365-246X.2004.02175.x",
+      "year": 2004,
+      "journal": "Geophysical Journal International",
+      "first_author": "Currie",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/54P4Y6MZ/Currie et al. - 2004 - Shear wave anisotropy beneath the Cascadia subduction zone and western North American craton.pdf"
+    },
+    {
+      "title": "Sensitivity kernels for shear wave splitting in transverse isotropic media",
+      "abstract": "Shear wave splitting observations are often used to constrain upper-mantle anisotropy. However, their interpretation, which is still controversial, always implicitly relies on geometric ray theory. This high-frequency approximation does not take the finite frequency of the shear wavefield into account. In this paper, the effects of transverse isotropic perturbations of the elastic parameters on shear wave splitting are investigated. The theory, based on the first-order Born approximation, allows the derivation of 2-D and 3-D Fréchet or sensitivity kernels for a new seismic observable called the splitting intensity. It is shown that the splitting intensity measured at the surface can be written to first order as a weighted average of two anisotropic perturbation parameters γc and γs related to the anisotropic parameter γ introduced by Mensch &amp; Rasolofosaon. We also demonstrate, using a stationary-phase approximation, that the volume integral of the sensitivity kernels for a homogeneous transverse isotropic medium leads to the ray theoretical prediction for the splitting intensity. A numerical experiment on a two-block model demonstrates that lateral variations of anisotropy in the upper mantle introduce complicated and counterintuitive effects on shear wave splitting observed at the surface.",
+      "doi": "10.1046/j.1365-246X.2003.01894.x",
+      "year": 2003,
+      "journal": "Geophysical Journal International",
+      "first_author": "Favier",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/BSJ4Y4XN/Favier and Chevrot - 2003 - Sensitivity kernels for shear wave splitting in transverse isotropic media.pdf"
+    },
+    {
+      "title": "Overall properties of a cracked solid",
+      "abstract": "The differential-integral equation of motion for the mean wave in a solid material containing embedded cavities or inclusions is derived. It consists of a series of terms of ascending powers of the scattering operator, and is here truncated after the third term. This implies the second-order interactions between scatterers are included but those of the third order are not.",
+      "doi": "10.1017/S0305004100057674",
+      "year": 1980,
+      "journal": "Mathematical Proceedings of the Cambridge Philosophical Society",
+      "first_author": "Hudson",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/RTSRAL8S/Hudson - 1980 - Overall properties of a cracked solid.pdf"
+    },
+    {
+      "title": "Initial Reports of the Deep Sea Drilling Project, 19",
+      "abstract": "",
+      "doi": "10.2973/dsdp.proc.19.1973",
+      "year": 1973,
+      "journal": null,
+      "first_author": "Creager",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/2AVJ388S/Creager et al. - 1973 - Initial Reports of the Deep Sea Drilling Project, 19.pdf"
+    },
+    {
+      "title": "rawdata.oceanobservatories.org/files/RS01SUM2/MJ01B/MASSPA101/MASSPA101_10.33.7.6_RGA_ASAMPLE(10)_20160922_032041_TXT/Sep_22_2016__04-04-03_AM.txt",
+      "abstract": "",
+      "doi": null,
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Overall properties of a cracked solid | Mathematical Proceedings of the Cambridge Philosophical Society | Cambridge Core",
+      "abstract": "",
+      "doi": null,
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "The fracture criticality of crustal rocks",
+      "abstract": "The shear-wave splitting observed along almost all shear-wave ray paths in the Earth’s crust is interpreted as the effects of stress-aligned fluid-filled cracks, microcracks, and preferentially oriented pore space. Once away from the free surface, where open joints and fractures may lead to strong anisotropy of 10 per cent or greater, intact ostensibly unfractured crustal rock exhibits a limited range of shear-wave splitting from about 1.5 to 4.5 per cent differential shear-wave velocity anisotropy. Interpreting this velocity anisotropy as normalized crack densities, a factor of less than two in crack radius covers the range from the minimum 1.5 per cent anisotropy observed in intact rock to the 10 per cent observed in heavily cracked almost disaggregated near-surface rocks. This narrow range of crack dimensions and the pronounced effect on rock cohesion suggests that there is a state of fracture criticality at some level of anisotropy between 4.5 and 10 per cent marking the boundary between essentially intact, and heavily fractured rock. When the level of fracture criticality is exceeded, cracking is so severe that there is a breakdown in shear strength, the likelihood of progressive fracturing and the dispersal of pore fluids through enhanced permeability. The range of normalized crack dimensions below fracture criticality is so small in intact rock, that any modification to the crack geometry by even minor changes of conditions or minor deformation (particularly in the presence of high pore-fluid pressures) may change rock from being essentially intact (below fracture criticality) to heavily fractured (above fracture criticality). This recognition of the essential compliance of most crustal rocks, and its effect on shear-wave splitting, has implications for monitoring changes in any conditions affecting the rock mass. These include monitoring changes in reservoir evolution during hydrocarbon production and enhanced oil recovery, and in monitoring changes before and after earthquakes, amongst others.",
+      "doi": null,
+      "year": null,
+      "journal": null,
+      "first_author": "Crampin",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/GDY7SZZK/Crampin - The fracture criticality of crustal rocks.pdf"
+    },
+    {
+      "title": "Seismic velocities in dry and saturated cracked solids",
+      "abstract": "",
+      "doi": "10.1029/JB079i035p05412",
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Stress and mass changes at a “wet” volcano: Example during the 2011–2012 volcanic unrest at Kawah Ijen volcano (Indonesia)",
+      "abstract": "",
+      "doi": "10.1002/2014JB011590",
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Microcrack‐induced elastic wave anisotropy of brittle rocks",
+      "abstract": "",
+      "doi": "10.1029/94JB03134",
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "Multichannel analysis of shear wave splitting",
+      "abstract": "",
+      "doi": "10.1029/2000JB900199",
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/WKYBF28Y/Multichannel analysis of shear wave splitting.pdf"
+    },
+    {
+      "title": "Use of focal mechanisms to determine stress: A control study",
+      "abstract": "",
+      "doi": "10.1029/JB092iB01p00357",
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    },
+    {
+      "title": "MATHEMATICAL ANALYSIS OF A VISCOELASTIC-GRAVITATIONAL LAYERED EARTH MODEL FOR MAGMATIC INTRUSION IN THE DYNAMIC CASE",
+      "abstract": "Volcanic areas present a lower eﬀective viscosity than usually in the Earth’s crust. It makes necessary to consider inelastic properties in deformation modelling. As a continuation of work done previously by some of the authors, this work is concerned with the proof that the perturbed equations representing the viscoelastic-gravitational displacements resulting from body forces embedded in a layered Earth model leads to a well-posed problem even for any kind of domains, with the natural boundary and transmission conditions. A homogeneous or stratiﬁed viscoelastic half-space has often been used as a simple earth model to calculate the displacements and gravity changes. Here we give a constructive proof of the existence of weak solutions and we show the uniqueness and the continuous dependence with respect to the initial data of weak solutions of the dynamic coupled viscoelastic-gravitational ﬁeld equations.",
+      "doi": null,
+      "year": null,
+      "journal": null,
+      "first_author": "Arjona",
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": "/Users/mhemmett/Zotero/storage/5KQ66JZE/Arjona and Diaz - MATHEMATICAL ANALYSIS OF A VISCOELASTIC-GRAVITATIONAL LAYERED EARTH MODEL FOR MAGMATIC INTRUSION IN.pdf"
+    },
+    {
+      "title": "Mogi Model",
+      "abstract": "",
+      "doi": null,
+      "year": null,
+      "journal": null,
+      "first_author": null,
+      "tags": [],
+      "linked_instruments": [],
+      "pdf_path": null
+    }
+  ]
+}

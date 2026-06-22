@@ -17,7 +17,7 @@ ZOTERO_DB      = Path.home() / "Zotero" / "zotero.sqlite"
 ZOTERO_STORAGE = Path.home() / "Zotero" / "storage"
 OUT = Path(__file__).parent.parent / "catalog" / "papers.json"
 
-TARGET_COLLECTIONS = {"Rock Physics"}
+TARGET_COLLECTIONS = {"Rock Physics", "Shear-Wave Splitting"}
 
 
 def main():
@@ -132,7 +132,7 @@ def main():
         })
 
     papers.sort(key=lambda p: p["year"] or 0, reverse=True)
-    out = {"version": "1.0", "source": "Zotero Rock Physics collection", "papers": papers}
+    out = {"version": "1.0", "source": "Zotero Rock Physics + Shear-Wave Splitting collections", "papers": papers}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2, ensure_ascii=False))
     pdf_count = sum(1 for p in papers if p.get("pdf_path"))
