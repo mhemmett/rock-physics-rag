@@ -1,0 +1,15 @@
+{
+  "name": "rock-physics-rag",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "index": "node scripts/build-index.mjs"
+  },
+  "dependencies": {
+    "minisearch": "^7.1.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.93.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "embedModel": "gemini-embedding-2",
+  "embedDim": 768,
+  "chunkWords": 400,
+  "overlapWords": 50,
+  "minChunkWords": 80,
+  "batchSize": 25,
+  "outputDir": "./public"
+}

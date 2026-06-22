@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RockRAG — Rock Physics Literature</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;600;700;800&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="chat.css" />
+  <script>(function(){var t=localStorage.getItem('rrg-theme');if(t==='dark')document.documentElement.setAttribute('data-theme','dark');})()</script>
+</head>
+<body>
+
+<!-- Password gate -->
+<div class="password-gate" id="passwordGate">
+  <div class="password-card">
+    <div class="password-card-title">RockRAG</div>
+    <div class="password-card-sub">Rock Physics Literature Assistant — enter the access password to continue.</div>
+    <form id="passwordForm">
+      <div class="password-row">
+        <input type="password" class="password-input" id="passwordInput" placeholder="Password" autocomplete="current-password" />
+        <button type="submit" class="password-submit">Enter</button>
+      </div>
+      <div class="password-error" id="passwordError" hidden>Incorrect password. Please try again.</div>
+    </form>
+  </div>
+</div>
+
+<main class="chat-main">
+
+  <!-- Left: papers context panel -->
+  <aside class="context-panel" id="contextPanel">
+    <h3 class="panel-title">Matched Papers</h3>
+    <p class="panel-hint" id="papersHint">Relevant papers will appear here after you submit a query.</p>
+    <div id="paperList"></div>
+
+    <div class="panel-divider"></div>
+
+    <h3 class="panel-title">Example Queries</h3>
+    <ul class="example-list">
+      <li><button class="example-btn" data-query="What does Gassmann's equation predict about fluid substitution in sandstones?">Gassmann fluid substitution in sandstones</button></li>
+      <li><button class="example-btn" data-query="Summarize research on seismic attenuation mechanisms in porous rocks">Seismic attenuation in porous rocks</button></li>
+      <li><button class="example-btn" data-query="What papers discuss P-wave velocity anisotropy in shales?">P-wave anisotropy in shales</button></li>
+      <li><button class="example-btn" data-query="What research exists on digital rock physics and CT scanning?">Digital rock physics and CT imaging</button></li>
+    </ul>
+  </aside>
+
+  <!-- Right: chat -->
+  <section class="chat-section">
+    <div class="chat-header">
+      <div class="chat-title-row">
+        <h1 class="chat-title">Rock Physics Literature</h1>
+        <button class="theme-toggle" id="themeToggle" aria-label="Switch to dark mode">
+          <svg class="icon-sun" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" hidden>
+            <circle cx="8" cy="8" r="3" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M8 1v2M8 13v2M1 8h2M13 8h2M3.22 3.22l1.42 1.42M11.36 11.36l1.42 1.42M3.22 12.78l1.42-1.42M11.36 4.64l1.42-1.42" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <svg class="icon-moon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M13.5 10.5A6 6 0 0 1 5.5 2.5a6 6 0 1 0 8 8z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+      <p class="chat-subtitle">Ask questions about rock physics or search the literature. RockRAG will find relevant published research and synthesize answers.</p>
+    </div>
+
+    <div class="mode-bar" role="group" aria-label="Query mode">
+      <button class="mode-btn active" data-mode="ask">Ask a Question</button>
+      <button class="mode-btn" data-mode="literature">Literature Review</button>
+    </div>
+
+    <div class="message-list" id="messageList" aria-live="polite"></div>
+
+    <div class="status-bar" id="statusBar" hidden>
+      <div class="status-spinner"></div>
+      <span class="status-text" id="statusText">Searching…</span>
+    </div>
+
+    <form class="input-form" id="inputForm" autocomplete="off">
+      <div class="input-row">
+        <textarea
+          id="queryInput"
+          class="query-input"
+          rows="3"
+          placeholder="e.g. What do effective medium theories predict about elastic velocities in cracked rocks?"
+          aria-label="Question or literature query"
+          required
+        ></textarea>
+        <button type="submit" class="submit-btn" id="submitBtn" aria-label="Submit">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M3 10h14M11 4l6 6-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+      <p class="input-note">Literature indexed from the Rock Physics Zotero collection. Papers appear in the sidebar after each query.</p>
+    </form>
+  </section>
+
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7/dist/umd/index.min.js"></script>
+<script src="chat.js"></script>
+</body>
+</html>

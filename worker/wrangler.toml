@@ -1,0 +1,10 @@
+name = "rock-physics-rag"
+main = "src/index.js"
+compatibility_date = "2025-04-01"
+
+[vars]
+ALLOWED_ORIGIN = "*"
+
+# Secrets (set via: wrangler secret put <NAME>)
+# GEMINI_API_KEY
+# CHAT_PASSWORD

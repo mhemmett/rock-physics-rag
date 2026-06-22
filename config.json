@@ -1,0 +1,5 @@
+{
+  "workerUrl": "https://rock-physics-rag.YOUR-ACCOUNT.workers.dev",
+  "embedDim": 768,
+  "topK": 6
+}
