@@ -128,6 +128,8 @@ function buildSearchIndex(chunks) {
 
 // ── Incremental embedding cache ───────────────────────────────────────────────
 
+const CHECKPOINT_PATH = path.join(ROOT, "catalog", "embed-checkpoint.json");
+
 function contentKey(chunk) {
   return crypto.createHash("sha1").update(chunk.embedText).digest("hex").slice(0, 16);
 }
@@ -136,6 +138,9 @@ function loadExistingEmbeddings(chunks) {
   const chunksPath = path.join(OUT_DIR, "chunks.json");
   const embedPath  = path.join(OUT_DIR, "embeddings.bin");
   const hashesPath = path.join(OUT_DIR, "embed-hashes.json");
+  const cache = new Map();
+
+  // Load finished index from public/
   try {
     const oldChunks = JSON.parse(fs.readFileSync(chunksPath, "utf8"));
     const oldHashes = fs.existsSync(hashesPath)
@@ -144,18 +149,31 @@ function loadExistingEmbeddings(chunks) {
     const buf    = fs.readFileSync(embedPath);
     const floats = new Float32Array(buf.buffer, buf.byteOffset, buf.length / 4);
     const dim    = floats.length / oldChunks.length;
-
-    const cache = new Map();
     oldChunks.forEach((c, i) => {
       const key = oldHashes ? (oldHashes[c.id] ?? c.id) : c.id;
       cache.set(key, Array.from(floats.subarray(i * dim, (i + 1) * dim)));
     });
-    console.log(`  Loaded ${cache.size} cached embeddings (dim=${dim})`);
-    return cache;
+    console.log(`  Loaded ${cache.size} cached embeddings from public/ (dim=${dim})`);
   } catch {
-    console.log("  No existing index found — embedding everything from scratch");
-    return new Map();
+    console.log("  No finished index found in public/");
   }
+
+  // Merge in-progress checkpoint (survives crashes between batches)
+  try {
+    const ckpt = JSON.parse(fs.readFileSync(CHECKPOINT_PATH, "utf8"));
+    let added = 0;
+    for (const [key, vec] of Object.entries(ckpt)) {
+      if (!cache.has(key)) { cache.set(key, vec); added++; }
+    }
+    if (added > 0) console.log(`  Recovered ${added} embeddings from checkpoint`);
+  } catch { /* no checkpoint yet */ }
+
+  return cache;
+}
+
+function saveCheckpoint(newVecMap) {
+  const obj = Object.fromEntries(newVecMap);
+  fs.writeFileSync(CHECKPOINT_PATH, JSON.stringify(obj));
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -204,6 +222,7 @@ async function main() {
       const vecs = await embedBatch(batch.map(c => c.embedText));
       batch.forEach((c, j) => newVecMap.set(contentKey(c), l2Normalize(vecs[j])));
       windowTokens += batchTokens;
+      saveCheckpoint(newVecMap); // persist after every batch so crashes don't lose work
     }
   }
 
@@ -226,6 +245,9 @@ async function main() {
   const searchIdx = buildSearchIndex(chunks);
   fs.writeFileSync(path.join(OUT_DIR, "search-index.json"), JSON.stringify(searchIdx));
   console.log(`  search-index.json: ${searchIdx.documents.length} documents`);
+
+  // Clean up checkpoint now that the final index is written
+  try { fs.unlinkSync(CHECKPOINT_PATH); } catch { /* already gone */ }
 
   console.log(`Done. (${reused} cached, ${toEmbed.length} newly embedded)`);
 }
