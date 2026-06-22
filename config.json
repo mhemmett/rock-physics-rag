@@ -1,5 +1,5 @@
 {
-  "workerUrl": "https://rock-physics-rag.YOUR-ACCOUNT.workers.dev",
+  "workerUrl": "https://rock-physics-rag.michaelahemmett.workers.dev",
   "embedDim": 768,
   "topK": 6
 }
